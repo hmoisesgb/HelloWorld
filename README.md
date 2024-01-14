@@ -1,8 +1,8 @@
 # Overview
 
-This is a Hello World program. I did this program to apply my current knowledge of Python in Visual Studio code, and to demonstrate how this integrates with GitHub
+This is a Hello World program. I did this program to apply my current knowledge of Python in Visual Studio code, and understand the basics of publishing my work on GitHub.
 
-Here is a demo video for my program: [Software Demo Video](http://youtube.link.goes.here)
+Here is a demo video for my program: [Software Demo Video](https://youtu.be/FmJRkKl6qyQ)
 
 # Development Environment
 
@@ -12,5 +12,4 @@ Here is a demo video for my program: [Software Demo Video](http://youtube.link.g
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python Documentation - Print command](https://docs.python.org/3.10/library/2to3.html?highlight=print#to3fixer-print)
